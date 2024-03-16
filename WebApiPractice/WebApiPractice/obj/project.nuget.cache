@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SFo+PLDs/Tx1S3dLF89us1kWcg26tnFyB9sKMq/t2xibXKO5xTGHGG6o/pqhsUMDlUuzrV8ud73QSIz823ta8A==",
+  "dgSpecHash": "68QPJDlwbeX/njrxEhbmtXKQI8JA9+ZujmJ+4XNGr4dJLTfxVxNwe6t4CKMVZd2eUzUd3/7TN350Xdc3KdlzIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tchit\\OneDrive\\special-octo-train\\WebApiPractice\\WebApiPractice\\WebApiPractice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tchit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
